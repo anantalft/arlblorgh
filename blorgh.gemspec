@@ -5,7 +5,7 @@ require "blorgh/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "blorgh"
+  s.name        = "arlblorgh"
   s.version     = Blorgh::VERSION
   s.authors     = ["anantalamichhane"]
   s.email       = ["anantalamichhane1@gmail.com"]
